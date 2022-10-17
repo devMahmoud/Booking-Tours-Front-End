@@ -2,7 +2,7 @@
 
 # Tourify 
 
-> **This is an app in wich you can reserve a tour, create a tour, delete a tour and show all your reserved tours. This app was created separating the Fron-End and the Back-End in two repositories. This is the repository of the front-end API.**
+> **This is an app in which you can reserve a tour, create a tour, delete a tour and show all your reserved tours. This app was created separating the Fron-End and the Back-End in two repositories. This is the repository of the front-end API.**
 
 
 ## Live Demo
