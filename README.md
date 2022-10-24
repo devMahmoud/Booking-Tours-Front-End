@@ -16,7 +16,7 @@
 - HTML
 - CSS
 - JavaScript
-- Ract
+- React
 - Redux
 
 ## Live Demo
